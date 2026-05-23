@@ -1,5 +1,5 @@
 # 3D Environment & Digital Asset Design
-> **Software Engineering Capstone Portfolio**
+> **Software Engineering**
 > *Final Year Project — 1-Semester Intensive Production*
 
 ---
