@@ -15,6 +15,10 @@ The primary deliverable is an optimized, high-fidelity scene tailored for seamle
 <img width="1277" height="615" alt="image" src="https://github.com/user-attachments/assets/7907eda8-5dce-44c9-a0ba-0b75000e7619" />
 
 
-Uploading blender.mp4…
+
+
+https://github.com/user-attachments/assets/438a9092-e7be-4ccc-a0a9-0810578495ab
+
+
 
 
